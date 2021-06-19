@@ -7020,3 +7020,241 @@ Stack trace:
 [19-Jun-2021 04:24:11 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 8
 [19-Jun-2021 04:24:11 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 12
 [19-Jun-2021 04:24:11 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 16
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:43:11 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:43:15 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:43:15 Europe/Berlin] PHP Fatal error:  Cannot redeclare db_query() (previously declared in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php:3) in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php on line 3
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 12
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 16
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 20
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 24
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:43:16 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:46:24 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:46:28 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:46:28 Europe/Berlin] PHP Fatal error:  Cannot redeclare db_query() (previously declared in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php:3) in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php on line 3
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 12
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 16
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 20
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 24
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:46:29 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:46:53 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:46:57 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:46:57 Europe/Berlin] PHP Fatal error:  Cannot redeclare db_query() (previously declared in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php:3) in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php on line 3
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:47:44 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:47:45 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:47:46 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:47:47 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:47:48 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 36
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 40
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 44
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 48
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\cursos.php on line 8
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\cursos.php on line 12
+[19-Jun-2021 04:47:56 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\cursos.php on line 16
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 60
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 64
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 68
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 72
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\profissionais.php on line 8
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\profissionais.php on line 12
+[19-Jun-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\profissionais.php on line 16
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 84
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 88
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 92
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 96
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 8
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 12
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 16
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 12
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 16
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 20
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 24
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:47:58 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:53:13 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:53:19 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:53:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare db_query() (previously declared in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php:3) in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php on line 3
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 12
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 16
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 20
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 24
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:53:21 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:54:06 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:54:13 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:54:13 Europe/Berlin] PHP Fatal error:  Cannot redeclare db_query() (previously declared in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php:3) in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php on line 3
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 12
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 16
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 20
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 24
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:54:18 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:54:36 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:56:02 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:56:02 Europe/Berlin] PHP Fatal error:  Cannot redeclare db_query() (previously declared in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php:3) in C:\xampp\htdocs\sysEducation\src\classes.db\db_connect.php on line 3
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:57:43 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:57:50 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 36
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 40
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 44
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 48
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\cursos.php on line 8
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\cursos.php on line 12
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\cursos.php on line 16
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 60
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 64
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 68
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 72
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\profissionais.php on line 8
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\profissionais.php on line 12
+[19-Jun-2021 04:57:55 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\profissionais.php on line 16
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 84
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 88
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 92
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 96
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 8
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 12
+[19-Jun-2021 04:57:56 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\turmas.php on line 16
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined array key "add" in C:\xampp\htdocs\sysEducation\src\adm.php on line 133
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined array key "edit" in C:\xampp\htdocs\sysEducation\src\adm.php on line 137
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined array key "delete" in C:\xampp\htdocs\sysEducation\src\adm.php on line 141
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\adm.php on line 145
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined variable $retAdd in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 8
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined variable $retEdit in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 12
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined variable $retDelete in C:\xampp\htdocs\sysEducation\views\adm\alunos.php on line 16
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined variable $verifyLogin in C:\xampp\htdocs\sysEducation\index.php on line 41
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined array key "typeL" in C:\xampp\htdocs\sysEducation\index.php on line 45
+[19-Jun-2021 04:57:57 Europe/Berlin] PHP Warning:  Undefined variable $msgErr in C:\xampp\htdocs\sysEducation\views\login.php on line 75
+[19-Jun-2021 04:58:02 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\sysEducation\views\menu.php on line 6
+[19-Jun-2021 04:58:02 Europe/Berlin] PHP Warning:  Undefined array key "filtro" in C:\xampp\htdocs\sysEducation\src\professor.php on line 9
