@@ -1,9 +1,8 @@
 # sysEducation
-Sistema SysEducation
 
-##############################
+#################################
 Bem-vindo ao SysEducation!!!
-##############################
+#################################
 
 Caso importe o banco através do script sql 
 contido neste repositório, utilize as seguintes 
